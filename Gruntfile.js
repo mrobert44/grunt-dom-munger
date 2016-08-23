@@ -1,6 +1,6 @@
 /*
- * grunt-dom-munger
- * https://github.com/cgross/grunt-dom-munger
+ * grunt-dom-munger-updated
+ * https://github.com/mrobert44/grunt-dom-munger-updated
  *
  * Copyright (c) 2013 Chris Gross
  * Licensed under the MIT license.

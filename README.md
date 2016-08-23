@@ -1,4 +1,6 @@
-# grunt-dom-munger [![Build Status](https://travis-ci.org/cgross/grunt-dom-munger.png?branch=master)](https://travis-ci.org/cgross/grunt-dom-munger)
+# grunt-dom-munger-updated [![Build Status](https://travis-ci.org/cgross/grunt-dom-munger-updated.png?branch=master)](https://travis-ci.org/cgross/grunt-dom-munger)
+
+Forked from cgross/grunt-dom-munger
 
 > Read and manipulate HTML documents using CSS selectors.
 
@@ -12,13 +14,13 @@ Use this task to read and transform your HTML documents.  Typical use cases incl
 This plugin requires Grunt `~0.4.1` and Node `>=0.8`.
 
 ```shell
-npm install grunt-dom-munger --save-dev
+npm install grunt-dom-munger-updated --save-dev
 ```
 
 Once the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
 
 ```js
-grunt.loadNpmTasks('grunt-dom-munger');
+grunt.loadNpmTasks('grunt-dom-munger-updated');
 ```
 
 ## The "dom_munger" task
